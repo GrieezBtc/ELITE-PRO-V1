@@ -1,8 +1,8 @@
 {
-  "name": "ELITE-PRO-V1",
-  "description": "A WhatsApp Bot Created by ElitePro",
+  "name": "Chief-V1",
+  "description": "A WhatsApp Bot Created by GrieezBoy",
   "logo": "https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg",
-  "keywords": ["bot", "whatsapp", "baileys", "javascript", "elitepro"],
+  "keywords": ["bot", "whatsapp", "baileys", "javascript", "Chief"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -16,15 +16,15 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2347047504860"
+      "value": "2349023326317"
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
-      "value": "ElitePro"
+      "value": "GrieezBoy"
     },
     "BOT_NAME": {
       "description": "Bot display name.",
-      "value": "ELITE-PRO-V1"
+      "value": "CHIEF-V1"
     },
     "AUTO_RECORDING": {
       "description": "Enable auto-recording simulation (true or false).",
