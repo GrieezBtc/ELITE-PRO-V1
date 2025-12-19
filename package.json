@@ -13,15 +13,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Chinedu-MD",
+  "author": "cyrilix-xmd",
   "license": "MIT",
   "dependencies": {
-    "baileys": "^6.7.20",
+    "baileys": "npm:gifted-baileys@2.0.4",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
-    "@hapi/boom": "^10.0.1",
+    "@hapi/boom": "latest",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.9.0",
+    "gifted-btns": "^1.0.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
@@ -31,7 +32,7 @@
     "fs-extra": "^11.1.1",
     "libphonenumber-js": "^1.12.8",
     "human-readable": "^0.2.1",
-    "jimp": "^1.6.0",
+    "jimp": "*",
     "jsdom": "^22.1.0",
     "moment-timezone": "^0.5.43",
     "node-fetch": "^2.6.11",
@@ -53,7 +54,6 @@
     "google-tts-api": "^2.0.2",
     "node-cache": "^5.1.2",
     "dotenv": "^16.4.5",
-    "sharp": "^0.33.0",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+    "@ffmpeg-installer/ffmpeg": "latest"
   }
 }
