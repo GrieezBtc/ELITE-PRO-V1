@@ -44,7 +44,7 @@
     },
     "AUTO_BIO": {
       "description": "Enable auto bio updates with time.",
-      "value": "true"
+      "value": "false"
     },
     "ANTI_92": {
       "description": "Block +92 numbers automatically (true or false).",
@@ -56,7 +56,7 @@
     },
     "WELCOME": {
       "description": "Enable group welcome message.",
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Enable automatic reactions to messages.",
@@ -64,7 +64,7 @@
     },
     "AUTO_LIKE_STATUS": {
       "description": "Automatically react to viewed statuses.",
-      "value": "true"
+      "value": "false"
     }
   },
   "buildpacks": [
